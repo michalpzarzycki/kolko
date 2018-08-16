@@ -1,0 +1,67 @@
+header, h1  {
+    
+    text-align: center;
+     margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.area {
+    display: inline-block;
+   
+    cursor: pointer;
+    
+
+    
+    
+    
+    
+}
+
+.blok {
+    display: block;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+
+   
+    
+    
+}
+
+
+    
+    
+    
+
+
+#gracz{
+    float:left;
+    position: absolute;
+    top:0;
+    
+    
+}
+
+
+area{
+    
+}
+.area:hover{
+    
+    
+   
+}
+
+
+
+.wynik{
+   color: aqua;
+    font-size: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    float: right;
+    display: block;
+}
